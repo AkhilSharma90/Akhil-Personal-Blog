@@ -1,0 +1,4 @@
+baseURL = 'https://shriaverma.github.io/first/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hextra'
