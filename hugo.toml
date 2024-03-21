@@ -1,5 +1,4 @@
 baseURL = 'https://AkhilSharma90.github.io/Akhil-Personal-Blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'hextra'
 
