@@ -1,10 +1,8 @@
 +++
-title = 'Ai Enhanced Cybersecurity Best Practices'
+title = 'Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide'
 date = 2024-02-02T18:31:22+05:30
 draft = false
 +++
-
-# Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide
 
 In the realm of artificial intelligence, creating projects that are both accessible and interactive is crucial for education and engagement. This guide aims to illuminate the process of building an AI-powered tool using Gradio and the Dolly model. We will delve into each step, from the initial setup to the final deployment, to provide you with a comprehensive understanding of the tools and processes involved.
 
