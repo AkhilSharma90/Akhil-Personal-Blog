@@ -12,15 +12,15 @@ At CyberAI Hub, we believe that staying informed is key to navigating the comple
 
 ## Featured Posts
 
-### [Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide](/first/posts/one/)
+### [Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide](/Akhil-Personal-Blog/posts/one/)
 
 Learn how to build an interactive AI project using Gradio and Dolly. This guide covers everything from installing dependencies to deploying a user-friendly interface.
 
-### [Building an AI Chatbot with CodeLlama and Streamlit in Google Colab](/first/posts/two/)
+### [Building an AI Chatbot with CodeLlama and Streamlit in Google Colab](/Akhil-Personal-Blog/posts/two/)
 
 Discover how to create a powerful AI code generator using Streamlit on Google Colab, leveraging the A100 GPU for optimal performance. This guide will walk you through the installation of necessary libraries, setting up the code, and deploying your AI-powered web application.
 
-### [AI Threats in Cybersecurity](/first/posts/three/)
+### [AI Threats in Cybersecurity](/Akhil-Personal-Blog/posts/three/)
 
 Uncover the darker side of AI in the realm of cybersecurity. This post offers a critical analysis of how AI can be used to augment cyber threats, and what measures can be taken to prevent such risks. Gain insights into the proactive steps necessary to stay ahead of AI-powered attacks.
 

@@ -12,23 +12,23 @@ draft = false
 Hello there! I'm Akhil Sharma, and this is my personal blog where I dive deep into the realms of Artificial Intelligence (AI) and Cybersecurity. Here, I share my projects, insights, and the latest trends that are shaping the future of these exciting fields.
 
 
-## [Blog Posts](/first/posts/)
+## [Blog Posts](/Akhil-Personal-Blog/posts/)
 
 Dive into our latest insights on artificial intelligence in cybersecurity:
 
-### [Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide](/first/posts/one/)
+### [Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide](/Akhil-Personal-Blog/posts/one/)
 
 Learn how to build an interactive AI project using Gradio and Dolly. This guide covers everything from installing dependencies to deploying a user-friendly interface.
 
-### [Building an AI Chatbot with CodeLlama and Streamlit in Google Colab](/first/posts/two/)
+### [Building an AI Chatbot with CodeLlama and Streamlit in Google Colab](/Akhil-Personal-Blog/posts/two/)
 
 Discover how to create a powerful AI code generator using Streamlit on Google Colab, leveraging the A100 GPU for optimal performance. This guide will walk you through the installation of necessary libraries, setting up the code, and deploying your AI-powered web application.
 
-### [AI Threats in Cybersecurity](/first/posts/three/)
+### [AI Threats in Cybersecurity](/Akhil-Personal-Blog/posts/three/)
 
 Understand the potential risks that come with AI in the cybersecurity domain. This post examines how AI can automate attacks and evolve malware, highlighting the need for robust defense mechanisms.
 
-Stay updated with more posts in our [Blog Index](/first/posts/).
+Stay updated with more posts in our [Blog Index](/Akhil-Personal-Blog/posts/).
 
 ### Categories
 
