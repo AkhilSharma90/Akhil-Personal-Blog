@@ -12,13 +12,13 @@ At CyberAI Hub, we believe that staying informed is key to navigating the comple
 
 ## Featured Posts
 
-### [AI-Enhanced Cybersecurity Best Practices](/first/posts/one/)
+### [Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide](/first/posts/one/)
 
-Delve into the critical best practices for leveraging AI to fortify your cybersecurity measures. This article provides a step-by-step guide on how to seamlessly integrate AI into your existing security protocols, ensuring a robust defense against digital threats.
+Learn how to build an interactive AI project using Gradio and Dolly. This guide covers everything from installing dependencies to deploying a user-friendly interface.
 
-### [The Future of AI in Cybersecurity](/first/posts/two/)
+### [Building an AI Chatbot with CodeLlama and Streamlit in Google Colab](/first/posts/two/)
 
-Join us on a journey to the future, as we explore the potential impacts and innovations AI is expected to bring to cybersecurity. This forward-looking piece examines emerging trends, potential ethical considerations, and the evolving role of AI-driven technologies in cyber defense strategies.
+Discover how to create a powerful AI code generator using Streamlit on Google Colab, leveraging the A100 GPU for optimal performance. This guide will walk you through the installation of necessary libraries, setting up the code, and deploying your AI-powered web application.
 
 ### [AI Threats in Cybersecurity](/first/posts/three/)
 
