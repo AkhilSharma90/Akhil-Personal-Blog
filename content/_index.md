@@ -32,6 +32,15 @@ Unlock the power of AI with Chat with PDF's Mistral-7B, a revolutionary tool tha
 
 Embark on a journey through image classification with TensorFlow, using the CIFAR-10 dataset as our playground. This comprehensive guide will walk you through each step of building a convolutional neural network (CNN) to classify images into distinct categories.
 
+### [Crafting an AI Math Tutor with OpenAI Assistants Agent](/Akhil-Personal-Blog/posts/4064f/)
+
+This comprehensive guide introduces the OpenAI Assistants Agent, focusing on creating a Math Tutor. We'll cover the setup of the OpenAI API, installation of necessary libraries, and detailed steps to develop an interactive assistant that aids in solving mathematical problems.
+
+### [Text-to-Image Generation: Unleashing Creativity with AI](/Akhil-Personal-Blog/posts/1fc91/)
+
+In the digital age, the boundary between imagination and reality blurs with advancements like text-to-image generation. This blog delves into creating vivid images from textual descriptions using AI, specifically exploring Stable Diffusion models. Let’s embark on a journey to transform words into visual art, illustrating the process in a detailed, technical, yet engaging manner.
+
+
 Stay updated with more posts in our [Blog Index](/Akhil-Personal-Blog/posts/).
 
 ### Categories
