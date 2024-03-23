@@ -16,7 +16,7 @@ Hello there! I'm Akhil Sharma, and this is my personal blog where I dive deep in
 
 Dive into our latest insights on artificial intelligence in cybersecurity:
 
-### [Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide](/Akhil-Personal-Blog/posts/Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide/)
+### [Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide](/Akhil-Personal-Blog/posts/Creating an AI Physics Tutor with Gradio and Dolly/)
 
 Learn how to build an interactive AI project using Gradio and Dolly. This guide covers everything from installing dependencies to deploying a user-friendly interface.
 
@@ -24,7 +24,7 @@ Learn how to build an interactive AI project using Gradio and Dolly. This guide 
 
 Discover how to create a powerful AI code generator using Streamlit on Google Colab, leveraging the A100 GPU for optimal performance. This guide will walk you through the installation of necessary libraries, setting up the code, and deploying your AI-powered web application.
 
-### [Chat with PDF's Mistral-7B: Interacting with Documents Through AI](/Akhil-Personal-Blog/posts/Chat with PDF's Mistral-7B: Interacting with Documents Through AI/)
+### [Chat with PDF's Mistral-7B: Interacting with Documents Through AI](/Akhil-Personal-Blog/posts/Chat with PDF Mistral-7B/)
 
 Unlock the power of AI with Chat with PDF's Mistral-7B, a revolutionary tool that allows you to interact with your PDF documents in a conversational manner. This guide will walk you through setting up a Streamlit web application to query PDF content using the advanced Mistral-7B language model.
 
