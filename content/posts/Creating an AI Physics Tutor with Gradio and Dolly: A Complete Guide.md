@@ -1,5 +1,5 @@
 +++
-title = 'Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide'
+title = 'Creating an AI Physics Tutor with Gradio and Dolly'
 date = 2024-02-02T18:31:22+05:30
 draft = false
 +++

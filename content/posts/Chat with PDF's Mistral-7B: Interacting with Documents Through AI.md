@@ -1,5 +1,5 @@
 +++
-title = 'Chat with PDF's Mistral-7B: Interacting with Documents Through AI'
+title = 'Chat with PDF Mistral-7B: Interacting with Documents Through AI'
 date = 2024-02-02T18:30:33+05:30
 draft = false
 +++
