@@ -12,36 +12,35 @@ draft = false
 Hello there! I'm Akhil Sharma, and this is my personal blog where I dive deep into the realms of Artificial Intelligence (AI) and Cybersecurity. Here, I share my projects, insights, and the latest trends that are shaping the future of these exciting fields.
 
 
-## [Blog Posts](/Akhil-Personal-Blog/posts/)
+## Blog Posts
 
 Dive into our latest insights on artificial intelligence in cybersecurity:
 
-### [Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide](/Akhil-Personal-Blog/posts/ebd56/)
+- [**Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide**](/Akhil-Personal-Blog/posts/ebd56)  
+  Learn how to build an interactive AI project using Gradio and Dolly, covering everything from installing dependencies to deploying a user-friendly interface.
 
-Learn how to build an interactive AI project using Gradio and Dolly. This guide covers everything from installing dependencies to deploying a user-friendly interface.
+- [**Building an AI Chatbot with CodeLlama and Streamlit in Google Colab**](/Akhil-Personal-Blog/posts/c4bf3)  
+  Discover how to create a powerful AI code generator using Streamlit on Google Colab, leveraging the A100 GPU for optimal performance.
 
-### [Building an AI Chatbot with CodeLlama and Streamlit in Google Colab](/Akhil-Personal-Blog/posts/c4bf3/)
+- [**Chat with PDF's Mistral-7B: Interacting with Documents Through AI**](/Akhil-Personal-Blog/posts/5981b)  
+  Unlock the power of AI with Chat with PDF's Mistral-7B, allowing you to interact with your PDF documents in a conversational manner.
 
-Discover how to create a powerful AI code generator using Streamlit on Google Colab, leveraging the A100 GPU for optimal performance. This guide will walk you through the installation of necessary libraries, setting up the code, and deploying your AI-powered web application.
+- [**CIFAR-10 Image Classification with TensorFlow**](/Akhil-Personal-Blog/posts/5cefc)  
+  Embark on a journey through image classification with TensorFlow, using the CIFAR-10 dataset.
 
-### [Chat with PDF's Mistral-7B: Interacting with Documents Through AI](/Akhil-Personal-Blog/posts/5981b/)
+- [**Crafting an AI Math Tutor with OpenAI Assistants Agent**](/Akhil-Personal-Blog/posts/4064f)  
+  Create a Math Tutor using the OpenAI Assistants Agent, covering the setup of the OpenAI API and necessary libraries.
 
-Unlock the power of AI with Chat with PDF's Mistral-7B, a revolutionary tool that allows you to interact with your PDF documents in a conversational manner. This guide will walk you through setting up a Streamlit web application to query PDF content using the advanced Mistral-7B language model.
+- [**Text-to-Image Generation: Unleashing Creativity with AI**](/Akhil-Personal-Blog/posts/1fc91)  
+  Explore the world of text-to-image generation using AI, focusing on Stable Diffusion models.
 
-### [CIFAR-10 Image Classification with TensorFlow](/Akhil-Personal-Blog/posts/5cefc/)
+- [**Chat with CSV using OpenAI**](/Akhil-Personal-Blog/posts/4de6a)  
+  Create a Chat with CSV OpenAI project, delving into the setup, coding, and execution of your chat interface.
 
-Embark on a journey through image classification with TensorFlow, using the CIFAR-10 dataset as our playground. This comprehensive guide will walk you through each step of building a convolutional neural network (CNN) to classify images into distinct categories.
+- [**Detecting Malware with Machine Learning**](/Akhil-Personal-Blog/posts/1e770)  
+  Delve into detecting malware using machine learning to bolster your digital defenses.
 
-### [Crafting an AI Math Tutor with OpenAI Assistants Agent](/Akhil-Personal-Blog/posts/4064f/)
-
-This comprehensive guide introduces the OpenAI Assistants Agent, focusing on creating a Math Tutor. We'll cover the setup of the OpenAI API, installation of necessary libraries, and detailed steps to develop an interactive assistant that aids in solving mathematical problems.
-
-### [Text-to-Image Generation: Unleashing Creativity with AI](/Akhil-Personal-Blog/posts/1fc91/)
-
-In the digital age, the boundary between imagination and reality blurs with advancements like text-to-image generation. This blog delves into creating vivid images from textual descriptions using AI, specifically exploring Stable Diffusion models. Let’s embark on a journey to transform words into visual art, illustrating the process in a detailed, technical, yet engaging manner.
-
-
-Stay updated with more posts in our [Blog Index](/Akhil-Personal-Blog/posts/).
+[More Posts](/Akhil-Personal-Blog/posts/)
 
 ### Categories
 

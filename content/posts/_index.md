@@ -36,7 +36,13 @@ This comprehensive guide introduces the OpenAI Assistants Agent, focusing on cre
 
 In the digital age, the boundary between imagination and reality blurs with advancements like text-to-image generation. This blog delves into creating vivid images from textual descriptions using AI, specifically exploring Stable Diffusion models. Let’s embark on a journey to transform words into visual art, illustrating the process in a detailed, technical, yet engaging manner.
 
+### [Chat with CSV using OpenAI](/Akhil-Personal-Blog/posts/4de6a/)
 
+Unleash the power of OpenAI in your CSV data with our comprehensive guide on creating a Chat with CSV OpenAI project. Dive into the details of setting up, coding, and running your chat interface.
+
+### [Detecting Malware with Machine Learning](/Akhil-Personal-Blog/posts/1e770/)
+
+Delve into the world of cybersecurity with our guide on detecting malware using machine learning. Discover how to harness ML algorithms to bolster your digital defenses.
 
 ## Dive Deeper
 
