@@ -4,9 +4,6 @@ date = 2024-02-02T18:29:40+05:30
 draft = false
 +++
 
-Let's dive into a detailed explanation of each step and the code, ensuring the readers understand what they are doing and why. Here's how we can structure and explain the blog:
-
----
 
 In this comprehensive guide, we'll explore how to build an AI chatbot using the CodeLlama model and Streamlit framework, hosted in Google Colab with an A100 GPU. This setup ensures you have the computational power needed for real-time, responsive AI interactions.
 

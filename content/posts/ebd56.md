@@ -4,11 +4,6 @@ date = 2024-02-02T18:31:22+05:30
 draft = false
 +++
 
-In the realm of artificial intelligence, creating projects that are both accessible and interactive is crucial for education and engagement. This guide aims to illuminate the process of building an AI-powered tool using Gradio and the Dolly model. We will delve into each step, from the initial setup to the final deployment, to provide you with a comprehensive understanding of the tools and processes involved.
-
-Let's dive deeper into each step, ensuring the explanation is thorough and clear enough for readers to follow along and replicate the process.
-
----
 
 ### Setting Up Your Environment
 The first step in our journey is to set up the environment by installing the necessary libraries. These libraries include Gradio for the web interface, `transformers` for accessing pre-trained models, `sentencepiece` for text processing, and `accelerate` for optimizing the computation. Run the following commands in your terminal or Jupyter notebook:
