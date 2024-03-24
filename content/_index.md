@@ -16,28 +16,28 @@ Hello there! I'm Akhil Sharma, and this is my personal blog where I dive deep in
 
 Dive into our latest insights on artificial intelligence in cybersecurity:
 
-- [**Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide**](/Akhil-Personal-Blog/posts/ebd56)  
+- [Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide](/Akhil-Personal-Blog/posts/ebd56)  
   Learn how to build an interactive AI project using Gradio and Dolly, covering everything from installing dependencies to deploying a user-friendly interface.
 
-- [**Building an AI Chatbot with CodeLlama and Streamlit in Google Colab**](/Akhil-Personal-Blog/posts/c4bf3)  
+- [Building an AI Chatbot with CodeLlama and Streamlit in Google Colab](/Akhil-Personal-Blog/posts/c4bf3)  
   Discover how to create a powerful AI code generator using Streamlit on Google Colab, leveraging the A100 GPU for optimal performance.
 
-- [**Chat with PDF's Mistral-7B: Interacting with Documents Through AI**](/Akhil-Personal-Blog/posts/5981b)  
+- [Chat with PDF's Mistral-7B: Interacting with Documents Through AI](/Akhil-Personal-Blog/posts/5981b)  
   Unlock the power of AI with Chat with PDF's Mistral-7B, allowing you to interact with your PDF documents in a conversational manner.
 
-- [**CIFAR-10 Image Classification with TensorFlow**](/Akhil-Personal-Blog/posts/5cefc)  
+- [CIFAR-10 Image Classification with TensorFlow](/Akhil-Personal-Blog/posts/5cefc)  
   Embark on a journey through image classification with TensorFlow, using the CIFAR-10 dataset.
 
-- [**Crafting an AI Math Tutor with OpenAI Assistants Agent**](/Akhil-Personal-Blog/posts/4064f)  
+- [Crafting an AI Math Tutor with OpenAI Assistants Agent](/Akhil-Personal-Blog/posts/4064f)  
   Create a Math Tutor using the OpenAI Assistants Agent, covering the setup of the OpenAI API and necessary libraries.
 
-- [**Text-to-Image Generation: Unleashing Creativity with AI**](/Akhil-Personal-Blog/posts/1fc91)  
+- [Text-to-Image Generation: Unleashing Creativity with AI](/Akhil-Personal-Blog/posts/1fc91)  
   Explore the world of text-to-image generation using AI, focusing on Stable Diffusion models.
 
-- [**Chat with CSV using OpenAI**](/Akhil-Personal-Blog/posts/4de6a)  
+- [Chat with CSV using OpenAI](/Akhil-Personal-Blog/posts/4de6a)  
   Create a Chat with CSV OpenAI project, delving into the setup, coding, and execution of your chat interface.
 
-- [**Detecting Malware with Machine Learning**](/Akhil-Personal-Blog/posts/1e770)  
+- [Detecting Malware with Machine Learning](/Akhil-Personal-Blog/posts/1e770)  
   Delve into detecting malware using machine learning to bolster your digital defenses.
 
 [More Posts](/Akhil-Personal-Blog/posts/)
