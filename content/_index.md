@@ -16,7 +16,7 @@ Hello there! I'm Akhil Sharma, and this is my personal blog where I dive deep in
 
 Dive into our latest insights on artificial intelligence in cybersecurity:
 
-- [Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide](/Akhil-Personal-Blog/posts/creating_an_AI_Physics_Tutor_with_Gradio_and_Dolly.md)  
+- [Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide](/Akhil-Personal-Blog/posts/creating_an_ai_physics_tutor_with_gradio_and_dolly)  
   Learn how to build an interactive AI project using Gradio and Dolly, covering everything from installing dependencies to deploying a user-friendly interface.
 
 - [Building an AI Chatbot with CodeLlama and Streamlit in Google Colab](/Akhil-Personal-Blog/posts/Building_an_AI_Chatbot_with_CodeLlama_and_Streamlit_in_Google_Colab)  
