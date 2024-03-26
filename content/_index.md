@@ -37,7 +37,7 @@ Dive into our latest insights on artificial intelligence in cybersecurity:
 - [Chat with CSV using OpenAI](/Akhil-Personal-Blog/posts/4de6a)  
   Create a Chat with CSV OpenAI project, delving into the setup, coding, and execution of your chat interface.
 
-- [Detecting Malware with Machine Learning](/Akhil-Personal-Blog/posts/1e770)  
+- [Detecting Malware with Machine Learning](/Akhil-Personal-Blog/posts/Detecting-Malware-with-Machine-Learning)  
   Delve into detecting malware using machine learning to bolster your digital defenses.
 
 [More Posts](/Akhil-Personal-Blog/posts/)
