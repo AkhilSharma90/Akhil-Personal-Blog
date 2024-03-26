@@ -12,29 +12,30 @@ At CyberAI Hub, we believe that staying informed is key to navigating the comple
 
 ## Featured Posts
 
-### [Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide](/Akhil-Personal-Blog/posts/creating_an_AI_Physics_Tutor_with_Gradio_and_Dolly.md)  
+### [Creating an AI Physics Tutor with Gradio and Dolly: A Complete Guide](/Akhil-Personal-Blog/posts/creating_an_ai_physics_tutor_with_gradio_and_dolly)  
   Learn how to build an interactive AI project using Gradio and Dolly, covering everything from installing dependencies to deploying a user-friendly interface.
 
-### [Building an AI Chatbot with CodeLlama and Streamlit in Google Colab](/Akhil-Personal-Blog/posts/Building_an_AI_Chatbot_with_CodeLlama_and_Streamlit_in_Google_Colab)  
+### [Building an AI Chatbot with CodeLlama and Streamlit in Google Colab](/Akhil-Personal-Blog/posts/building_an_ai_chatbot_with_codellama_and_streamlit_in_google_colab)  
   Discover how to create a powerful AI code generator using Streamlit on Google Colab, leveraging the A100 GPU for optimal performance.
 
-### [Chat with PDF's Mistral-7B: Interacting with Documents Through AI](/Akhil-Personal-Blog/posts/Chat_with_PDF_Mistral_7B)  
+### [Chat with PDF's Mistral-7B: Interacting with Documents Through AI](/Akhil-Personal-Blog/posts/chat_with_pdf_mistral_7b)  
   Unlock the power of AI with Chat with PDF's Mistral-7B, allowing you to interact with your PDF documents in a conversational manner.
 
-### [CIFAR-10 Image Classification with TensorFlow](/Akhil-Personal-Blog/posts/CIFAR_10_Image_Classification_with_TensorFlow)  
+### [CIFAR-10 Image Classification with TensorFlow](/Akhil-Personal-Blog/posts/cifar_10_image_classification_with_tensorflow)  
   Embark on a journey through image classification with TensorFlow, using the CIFAR-10 dataset.
 
-### [Crafting an AI Math Tutor with OpenAI Assistants Agent](/Akhil-Personal-Blog/posts/crafting_an_AI_Math_Tutor_with_OpenAI_Assistants_Agent)  
+### [Crafting an AI Math Tutor with OpenAI Assistants Agent](/Akhil-Personal-Blog/posts/crafting_an_ai_math_tutor_with_openai_assistants_agent)  
   Create a Math Tutor using the OpenAI Assistants Agent, covering the setup of the OpenAI API and necessary libraries.
 
-### [Text-to-Image Generation: Unleashing Creativity with AI](/Akhil-Personal-Blog/posts/text_to_Image_Generation_Unleashing_Creativity_with_AI)  
+### [Text-to-Image Generation: Unleashing Creativity with AI](/Akhil-Personal-Blog/posts/text_to_image_generation_unleashing_creativity_with_ai)  
   Explore the world of text-to-image generation using AI, focusing on Stable Diffusion models.
 
-### [Chat with CSV using OpenAI](/Akhil-Personal-Blog/posts/chat_with_CSV_using_openAI)  
+### [Chat with CSV using OpenAI](/Akhil-Personal-Blog/posts/chat_with_csv_using_openai)  
   Create a Chat with CSV OpenAI project, delving into the setup, coding, and execution of your chat interface.
 
 ### [Detecting Malware with Machine Learning](/Akhil-Personal-Blog/posts/detecting_malware_with_machine_learning)  
   Delve into detecting malware using machine learning to bolster your digital defenses.
+
 
 ## Dive Deeper
 
