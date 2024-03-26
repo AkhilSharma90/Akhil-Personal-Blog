@@ -40,6 +40,14 @@ Dive into our latest insights on artificial intelligence in cybersecurity:
 - [Detecting Malware with Machine Learning](/Akhil-Personal-Blog/posts/detecting_malware_with_machine_learning)  
   Delve into detecting malware using machine learning to bolster your digital defenses.
 
+- [LangChain AutoGPT: Crafting a YouTube GPT Creator with Streamlit](/Akhil-Personal-Blog/posts/langchain_autogpt_youtube_creator)  
+  Dive deep into building a LangChain AutoGPT-powered YouTube GPT Creator using Streamlit. This guide explains each line of code for seamless AI content creation.
+
+- [ Bitcoin Price Prediction: A Detailed Guide with Support Vector Machine in Python](/Akhil-Personal-Blog/posts/bitcoin_price_prediction_svm_python_guide)  
+  Uncover the intricacies of predicting Bitcoin prices using Python and Support Vector Machine (SVM). This blog offers a line-by-line explanation of the code for accurate forecasting.
+
+
+
 [More Posts](/Akhil-Personal-Blog/posts/)
 
 ### Categories
