@@ -38,9 +38,16 @@ At CyberAI Hub, we believe that staying informed is key to navigating the comple
 
 ### [LangChain AutoGPT: Crafting a YouTube GPT Creator with Streamlit](/Akhil-Personal-Blog/posts/langchain_autogpt_youtube_creator)  
   Dive deep into building a LangChain AutoGPT-powered YouTube GPT Creator using Streamlit. This guide explains each line of code for seamless AI content creation.
+
 ### [ Bitcoin Price Prediction: A Detailed Guide with Support Vector Machine in Python](/Akhil-Personal-Blog/posts/bitcoin_price_prediction_svm_python_guide)  
   Uncover the intricacies of predicting Bitcoin prices using Python and Support Vector Machine (SVM). This blog offers a line-by-line explanation of the code for accurate forecasting.
+  
+### [ Implement and Understand PEFT Fine-tune Bloom-560m-tagger: A Step-by-Step Project Guide ](/Akhil-Personal-Blog/posts/step_by_step_peft_fine_tune_bloom_560m_tagger_guide)
+  Embark on a hands-on journey to master the PEFT Fine-tune Bloom-560m-tagger project. This step-by-step guide breaks down each line of code, making the process accessible and easy to follow for everyone.
 
+### [ Mastering Stable Vicuna13B on Colab: A Comprehensive 8-bit Implementation Guide ](/Akhil-Personal-Blog/posts/master_stable_vicuna13b_colab_8bit)
+  Unlock the potential of Stable Vicuna13B in Google Colab with an 8-bit implementation, detailed setup, and execution guide, ensuring smooth and efficient model interaction.
+  
 
 ## Dive Deeper
 

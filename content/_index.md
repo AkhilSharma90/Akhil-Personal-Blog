@@ -46,8 +46,12 @@ Dive into our latest insights on artificial intelligence in cybersecurity:
 - [ Bitcoin Price Prediction: A Detailed Guide with Support Vector Machine in Python](/Akhil-Personal-Blog/posts/bitcoin_price_prediction_svm_python_guide)  
   Uncover the intricacies of predicting Bitcoin prices using Python and Support Vector Machine (SVM). This blog offers a line-by-line explanation of the code for accurate forecasting.
 
+- [ Implement and Understand PEFT Fine-tune Bloom-560m-tagger: A Step-by-Step Project Guide ](/Akhil-Personal-Blog/posts/step_by_step_peft_fine_tune_bloom_560m_tagger_guide)
+  Embark on a hands-on journey to master the PEFT Fine-tune Bloom-560m-tagger project. This step-by-step guide breaks down each line of code, making the process accessible and easy to follow for everyone.
 
-
+- [ Mastering Stable Vicuna13B on Colab: A Comprehensive 8-bit Implementation Guide ](/Akhil-Personal-Blog/posts/master_stable_vicuna13b_colab_8bit)
+  Unlock the potential of Stable Vicuna13B in Google Colab with an 8-bit implementation, detailed setup, and execution guide, ensuring smooth and efficient model interaction.
+  
 [More Posts](/Akhil-Personal-Blog/posts/)
 
 ### Categories
